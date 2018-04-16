@@ -1,0 +1,22 @@
+{
+  "name": "cypressuitesting",
+  "version": "1.0.0",
+  "description": "UI Testing with Cypress.io",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anupavanm/CypressUITesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anupavanm/CypressUITesting/issues"
+  },
+  "homepage": "https://github.com/anupavanm/CypressUITesting#readme",
+  "devDependencies": {
+    "cypress": "^2.1.0"
+  }
+}
